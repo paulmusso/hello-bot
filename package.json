@@ -1,0 +1,23 @@
+{
+  "name": "hello-bot",
+  "version": "1.0.0",
+  "description": "hello world bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulmusso/hello-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "messenger"
+  ],
+  "author": "paul.musso@orange.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulmusso/hello-bot/issues"
+  },
+  "homepage": "https://github.com/paulmusso/hello-bot#readme"
+}
