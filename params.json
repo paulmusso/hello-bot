@@ -1,6 +1,6 @@
 {
   "name": "Hello-bot",
   "tagline": "Bot météo pour tout le monde",
-  "body": "# Bot météo Messenger\r\n\r\nDemandez lui la météo de votre ville, il vous la donnera !\r\nC'est vraiment incroyable",
+  "body": "# Bot météo Messenger\r\n\r\nDemandez lui la météo de votre ville, il vous la donnera !\r\nC'est vraiment incroyable\r\n\r\n## Contact\r\n\r\nPour toute question, Contactez-moi par mail: paul.musso@orange.com",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
