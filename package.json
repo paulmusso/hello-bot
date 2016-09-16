@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
+    "start": "FB_PAGE_TOKEN=toto FB_APP_SECRET=toto node index.js",
     "start:watch": "nodemon index.js"
   },
   "repository": {
