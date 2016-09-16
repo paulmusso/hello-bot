@@ -4,7 +4,9 @@
   "description": "hello world bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:watch": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/paulmusso/hello-bot/issues"
   },
-  "homepage": "https://github.com/paulmusso/hello-bot#readme"
+  "homepage": "https://github.com/paulmusso/hello-bot#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2",
+    "watch": "^0.19.2"
+  }
 }
