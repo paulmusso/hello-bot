@@ -13,7 +13,7 @@ const app = express();
 
 // Webhook setup
 app.get('/', (req, res) => {
-	res.send({result: 'hello world 3'});
+	res.send({result: 'hello world'});
 });
 
 app.listen(PORT);
